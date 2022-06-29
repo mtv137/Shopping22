@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="copyLink">Скопировать ссылку </string>
+    <string name="saveCard">Сохранить карточку </string>
+    <string name="findCard">Найти </string>
+    <string name="delCard">Удалить </string>
+    <string name="preferencesCard">Мои предпочтения </string>
+</resources>
